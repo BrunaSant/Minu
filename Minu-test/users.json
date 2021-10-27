@@ -1,0 +1,9 @@
+{    
+    //Adicionando usuario
+    "description": "Request body schema for POST /api",
+        "users": {
+        "cpf": "47506371812",
+        "name": "bru",
+        "email": "bru@outlook.com"
+        }
+}
